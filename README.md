@@ -102,3 +102,4 @@ This is a personal project. While the code is public for anyone to use and learn
 [![Star History Chart](https://api.star-history.com/svg?repos=YorkieDev/LMStudioWebUI&type=Date)](https://star-history.com/#YorkieDev/LMStudioWebUI&Date)
 Homework: test change
 develop: server-side change
+feature: homework change
