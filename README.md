@@ -1,4 +1,4 @@
-⚠️ This is an **unofficial** project and is **not affiliated with or endorsed by LM Studio**.
+!This is an **unofficial** project and is **not affiliated with or endorsed by LM Studio**.
 
 # LM Studio Chat WebUI(unofficial)
 
